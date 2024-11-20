@@ -3,7 +3,4 @@
 Seja bem vindo(a) ao meu perfil Github, sou Diogo Evangelista Silva, um profissional de 21 anos formado em Técnico de Informática pela EP Francisco Paiva Tavares. Tenho forte interesse em desenvolvimento front-end, com foco especial em Vue.js e React. 
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
           
