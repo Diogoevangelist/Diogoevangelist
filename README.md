@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Serif&size=35&pause=1000&color=6A01F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Bem+vindos+ao+meu+Github!)](https://git.io/typing-svg)
 
 ## Hello World👋
-Seja bem vindo(a) ao meu perfil Github, sou Diogo Evangelista Silva, um profissional de 21 anos formado em Técnico de Informática pela EP Francisco Paiva Tavares. Tenho forte interesse em desenvolvimento front-end, com foco especial em Vue.js e React. 
+Sou Diogo Evangelista Silva, um profissional de 21 anos formado em Técnico de Informática pela EP Francisco Paiva Tavares. Tenho forte interesse em desenvolvimento front-end, com foco especial em Vue.js e React. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
